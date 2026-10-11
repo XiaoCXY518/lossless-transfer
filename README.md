@@ -18,8 +18,7 @@
 
 ## 下载
 
-<!-- 打 Release 后替换 -->
-Releases 页面提供最新 APK。
+从 [Releases](https://github.com/XiaoCXY518/lossless-transfer/releases) 页面下载最新 APK。
 
 ## 编译
 
