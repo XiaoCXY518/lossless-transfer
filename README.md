@@ -18,7 +18,8 @@
 
 ## 下载
 
-从 [Releases](https://github.com/XiaoCXY518/lossless-transfer/releases) 页面下载最新 APK。
+- **Android**：从 [Releases](../../releases) 页面下载 `app-release.apk`
+- **Windows**：从 [Releases](../../releases) 页面下载 `LosslessTransfer-Windows-vX.X.X.zip`，解压后运行 `无损传输.exe`
 
 ## 编译
 
