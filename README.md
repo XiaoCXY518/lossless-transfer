@@ -14,8 +14,7 @@
 
 ## 截图
 
-<!-- 上传截图后替换下面这行 -->
-<!-- ![主界面](docs/screenshots/main.png) -->
+![主界面](docs/screenshots/main.png)
 
 ## 下载
 
@@ -34,4 +33,8 @@ Releases 页面提供最新 APK。
 
 1. Clone 本仓库
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/XiaoCXY518/lossless-transfer.git
+=======
+   git clone https://github.com/XiaoCXY518/lossless-transfer.git
+>>>>>>> 0488963 (添加主界面截图)
