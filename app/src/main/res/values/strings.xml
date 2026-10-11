@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">无损传输</string>
+
+    <string name="channel_receive_name">文件接收服务</string>
+    <string name="channel_receive_desc">局域网文件接收前台服务</string>
+
+    <string name="channel_bt_name">BT 下载</string>
+    <string name="channel_bt_desc">BT 下载前台服务</string>
+</resources>
